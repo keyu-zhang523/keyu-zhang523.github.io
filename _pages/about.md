@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Department of Mathematical Sciences, Tsinghua University, under the supervision of Prof. [Zongxia Liang]([https://www.math.tsinghua.edu.cn/](https://math.tsinghua.edu.cn/info/1125/1623.htm)).
+I am a Ph.D. candidate at the Department of Mathematical Sciences, Tsinghua University, under the supervision of Prof. [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm).
 
 For further information, please see my [CV page](/cv.pdf).
 
@@ -23,7 +23,7 @@ Feel free to contact me directly if you have any questions about my research. Co
 
 ## Contact
 
-Address:  Department of Mathematical Sciences, Tsinghua University, Beijing, China.
+Address: Department of Mathematical Sciences, Tsinghua University, Beijing, China.
 
 Email: [zhangky21@mails.tsinghua.edu.cn](mailto:zhangky21@mails.tsinghua.edu.cn)
 
