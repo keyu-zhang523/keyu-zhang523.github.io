@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-*Note: All authors contribute equally and are sorted in alphabetical order.*
+* All authors contribute equally and are sorted in alphabetical order.*
 
 <br>
 ## Preprints / Working Papers
