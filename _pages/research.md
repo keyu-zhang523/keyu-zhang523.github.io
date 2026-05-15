@@ -8,6 +8,7 @@ author_profile: true
 
 <br>
 ## Preprints / Working Papers
+
 **[8]** Equilibrium for Time-inconsistent Mean Field Games: A Systematic Analysis by Entropy Regularization. (with Erhan Bayraktar, Zhenhua Wang, and Xiang Yu)
 
 Submitted, 2026. [ArXiv](https://arxiv.org/abs/2605.14363)
