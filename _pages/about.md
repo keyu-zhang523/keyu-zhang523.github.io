@@ -22,7 +22,7 @@ Feel free to contact me directly if you have any questions about my research. Co
 
 ## Contact
 
-Address: Shuangqing Building, Tsinghua University, Beijing, China.
+Address:  Department of Mathematical Sciences, Tsinghua University, Beijing, China.
 
 Email: [zhangky21@mails.tsinghua.edu.cn](mailto:zhangky21@mails.tsinghua.edu.cn)
 
