@@ -17,8 +17,9 @@ Feel free to contact me directly if you have any questions about my research. Co
 ## Research Interests
 
 * Mean Field Games
-* Stochastic Control
+* Stochastic Control and Optimization
 * Mathematical Finance
+* Reinforcement Learning
 
 ## Contact
 
