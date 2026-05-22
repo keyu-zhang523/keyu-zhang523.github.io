@@ -25,7 +25,7 @@ Submitted, 2025. [ArXiv](https://arxiv.org/abs/2508.20388)
 
 **[5]** Equilibrium stochastic control with implicitly defined objective functions. (with Zongxia Liang and Jianming Xia)
 
-Submitted, 2023. [ArXiv](https://arxiv.org/abs/2312.15173)
+Major revision with ***SCIENTIA SINICA Mathematica***, 2023. [ArXiv](https://arxiv.org/abs/2312.15173)
 
 <br>
 
