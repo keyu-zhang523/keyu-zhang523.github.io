@@ -33,7 +33,7 @@ Major revision with ***SCIENTIA SINICA Mathematica***, 2023. [ArXiv](https://arx
 
 **[4]** Major-Minor mean field game of stopping: an entropy regularization approach. (with Xiang Yu, Jiacheng Zhang, and Zhou Zhou) ***SIAM Journal on Control and Optimization***, forthcoming,  2026. [ArXiv](https://arxiv.org/abs/2501.08770)
 
-**[3]** On time-inconsistent extended mean-field control problems with common noise. (with Zongxia Liang and Xiang Yu) ***Mathematics of Operations Research***, forthcoming, 2026 [ArXiv](https://arxiv.org/abs/2409.07219)
+**[3]** [On time-inconsistent extended mean-field control problems with common noise](https://pubsonline.informs.org/doi/10.1287/moor.2024.0681). (with Zongxia Liang and Xiang Yu) ***Mathematics of Operations Research***, online first, 2026 [ArXiv](https://arxiv.org/abs/2409.07219)
 
 **[2]** [A mean field game approach to relative investment-consumption games with habit formation](https://link.springer.com/article/10.1007/s11579-024-00360-4). (with Zongxia Liang) ***Mathematics and Financial Economics***, 18: 577-622, 2024. [ArXiv](https://arxiv.org/abs/2401.15659)
 
