@@ -13,19 +13,19 @@ author_profile: true
 
 **[8]** Equilibrium for Time-inconsistent Mean Field Games: A Systematic Analysis by Entropy Regularization. (with Erhan Bayraktar, Zhenhua Wang, and Xiang Yu)
 
-Submitted, 2026. [ArXiv](https://arxiv.org/abs/2605.14363)
+Submitted, 2026. [[ArXiv]](https://arxiv.org/abs/2605.14363)
 
 **[7]** Policy Iteration Achieves Regularized Equilibrium under Time Inconsistency. (with Yu-Jui Huang and Xiang Yu)
 
-Submitted, 2026. [ArXiv](https://arxiv.org/abs/2603.06145)
+Submitted, 2026. [[ArXiv]](https://arxiv.org/abs/2603.06145)
 
 **[6]**  Mean Field Game with Reflected Jump Diffusion Dynamics: A Linear Programming Approach. (with Zongxia Liang and Xiang Yu)
 
-Submitted, 2025. [ArXiv](https://arxiv.org/abs/2508.20388)
+Submitted, 2025. [[ArXiv]](https://arxiv.org/abs/2508.20388)
 
 **[5]** Equilibrium stochastic control with implicitly defined objective functions. (with Zongxia Liang and Jianming Xia)
 
-Major revision with ***SCIENTIA SINICA Mathematica***, 2023. [ArXiv](https://arxiv.org/abs/2312.15173)
+Major revision with ***SCIENTIA SINICA Mathematica***, 2023. [[ArXiv]](https://arxiv.org/abs/2312.15173)
 
 <br>
 
