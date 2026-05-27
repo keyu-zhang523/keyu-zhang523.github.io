@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at the Department of Mathematical Sciences, Tsinghua University, under the supervision of Prof. [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm).
 
-For further information, please see my [CV page](/cv.pdf).
+For further information, please see my [CV page](/cv.pdf)(updated 2026-05).
 
 Feel free to contact me directly if you have any questions about my research. Collaborations on related topics are warmly welcomed!
 
