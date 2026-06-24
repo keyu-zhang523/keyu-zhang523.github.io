@@ -12,7 +12,7 @@ I obtained my Ph.D. in Statistics from the Department of Mathematical Sciences, 
 
 Starting from July 2026, I will be a Postdoctoral Fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University under the supervision of Prof. [Xiang Yu](https://sites.google.com/site/xiangyuama/home).
 
-For further information, please see my [CV page](/cv.pdf)(updated 2026-05).
+For further information, please see my [CV page](/cv.pdf)(updated 2026-06).
 
 Feel free to contact me directly if you have any questions about my research. Collaborations on related topics are warmly welcomed!
 
