@@ -11,7 +11,7 @@ I am a postdoctoral fellow in the Department of Applied Mathematics at The Hong 
 
 I obtained my Ph.D. in Statistics from the Department of Mathematical Sciences, Tsinghua University in June 2026, under the supervision of Prof. [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm).
 
-For further information, please see my [CV page](/cv.pdf) (updated 2026-06).
+For further information, please see my [CV page](/cv.pdf) (updated 2026-07).
 
 Feel free to contact me directly if you have any questions about my research. Collaborations on related topics are warmly welcomed!
 
