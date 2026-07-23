@@ -26,6 +26,6 @@ Feel free to contact me directly if you have any questions about my research. Co
 
 Address: Department of Applied Mathematics, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong.
 
-Email: [zhangkeyu2000@outlook.com](mailto:zhangkeyu2000@outlook.com)
+Email: [keyu1.zhang@polyu.edu.hk](mailto:keyu1.zhang@polyu.edu.hk), [zhangkeyu2000@outlook.com](mailto:zhangkeyu2000@outlook.com)
 
 Tel: (+86) 188-6494-6836 / (+852) 53090564
