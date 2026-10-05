@@ -34,7 +34,7 @@ Major revision with ***Mathematics of Operations Research***, 2025. [[ArXiv]](ht
 ***SIAM Journal on Control and Optimization***, 64(5), 3185-3214, 2026. [[ArXiv]](https://arxiv.org/abs/2501.08770)
 
 **[4]** Constrained portfolio game with heterogeneous agents. (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and Yaqi Zhuang)  
-***SIAM Journal on Financial Mathematics***,forthcoming,  2026. [[ArXiv]](https://arxiv.org/abs/2412.03070)
+***SIAM Journal on Financial Mathematics***, forthcoming,  2026. [[ArXiv]](https://arxiv.org/abs/2412.03070)
 
 **[3]** [Equilibrium stochastic control with implicitly defined objective functions](https://www.sciengine.com/SSM/doi/10.1360/SSM-2026-0064). (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and [Jianming Xia](https://people.ucas.ac.cn/~xia))  
 ***SCIENTIA SINICA Mathematica***, online first,  2026. [[ArXiv]](https://arxiv.org/abs/2312.15173)
